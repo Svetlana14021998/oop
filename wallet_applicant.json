@@ -1,0 +1,24 @@
+{
+  "categories": {
+    "Зарплата": {
+      "name": "Зарплата",
+      "type": "INCOME"
+    },
+    "Исходящий перевод": {
+      "name": "Исходящий перевод",
+      "type": "EXPENSE"
+    }
+  },
+  "incomes": [
+    {
+      "categoryName": "Зарплата",
+      "amount": 10000.0
+    }
+  ],
+  "expenses": [
+    {
+      "categoryName": "Исходящий перевод",
+      "amount": 100.0
+    }
+  ]
+}
