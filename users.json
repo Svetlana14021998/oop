@@ -1,0 +1,14 @@
+{
+  "ivan_i": {
+    "login": "ivan_i",
+    "password": "$2a$12$b0GIe0Uy/44T/UeLEh7rp..IeO7I76hwQVDGOV/Igv4rUpwKAos16"
+  },
+  "applicant": {
+    "login": "applicant",
+    "password": "$2a$12$4cASltRJeXCmvVsciO/x3.8oCkRafQ0hzn8fxxTUOvzZyaDeE0eZ."
+  },
+  "beneficiary": {
+    "login": "beneficiary",
+    "password": "$2a$12$dlhn1eKP4y5d2UHnsmz9/uVd8Im6c8LUolyTiWuNsojaxS7l0OFv."
+  }
+}

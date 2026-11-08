@@ -1,0 +1,15 @@
+{
+  "categories": {
+    "Входящий перевод": {
+      "name": "Входящий перевод",
+      "type": "INCOME"
+    }
+  },
+  "incomes": [
+    {
+      "categoryName": "Входящий перевод",
+      "amount": 100.0
+    }
+  ],
+  "expenses": []
+}

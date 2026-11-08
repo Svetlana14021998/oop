@@ -1,0 +1,67 @@
+{
+  "categories": {
+    "Коммунальные услуги": {
+      "name": "Коммунальные услуги",
+      "type": "EXPENSE",
+      "budget": 2500.0
+    },
+    "Бонус": {
+      "name": "Бонус",
+      "type": "INCOME"
+    },
+    "Такси": {
+      "name": "Такси",
+      "type": "EXPENSE"
+    },
+    "Развлечения": {
+      "name": "Развлечения",
+      "type": "EXPENSE",
+      "budget": 3000.0
+    },
+    "Зарплата": {
+      "name": "Зарплата",
+      "type": "INCOME"
+    },
+    "Еда": {
+      "name": "Еда",
+      "type": "EXPENSE",
+      "budget": 4000.0
+    }
+  },
+  "incomes": [
+    {
+      "categoryName": "Зарплата",
+      "amount": 20000.0
+    },
+    {
+      "categoryName": "Зарплата",
+      "amount": 40000.0
+    },
+    {
+      "categoryName": "Бонус",
+      "amount": 3000.0
+    }
+  ],
+  "expenses": [
+    {
+      "categoryName": "Еда",
+      "amount": 300.0
+    },
+    {
+      "categoryName": "Еда",
+      "amount": 500.0
+    },
+    {
+      "categoryName": "Такси",
+      "amount": 1500.0
+    },
+    {
+      "categoryName": "Развлечения",
+      "amount": 3000.0
+    },
+    {
+      "categoryName": "Коммунальные услуги",
+      "amount": 3000.0
+    }
+  ]
+}
